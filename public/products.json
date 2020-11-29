@@ -1,0 +1,46 @@
+{
+  "products": [
+   
+    {
+      "id": 1,
+      "sku": 1024,
+      "title": "Armstrong Tire",
+      "description": "",
+      "availableSizes": [""],
+      "style": "Azul escuro",
+      "price": 89.00,
+      "installments": 0,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 2,
+      "sku": "1025",
+      "title": "Toyo",
+      "description": "",
+      "availableSizes": [""],
+      "style": "",
+      "price": 115.00,
+      "installments": 5,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 3,
+      "sku": 1026,
+      "title": "Michelin",
+      "description": "",
+      "availableSizes": [""],
+      "style": "",
+      "price": 49.99,
+      "installments": 9,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "isFreeShipping": true
+    }
+  ]
+}
